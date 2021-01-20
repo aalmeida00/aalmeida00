@@ -21,6 +21,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
+**Soft Skills**
+
+- &nbsp; //Soon
+
 **Utility**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -49,7 +53,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
+<h3> :earth_americas: &nbsp;Where u can talk to me: </h3>
 
 [![Linkedin: Andre Almeida](https://img.shields.io/badge/-andre--almeida1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andre-almeida1/)
 [![Gmail Badge](https://img.shields.io/badge/-andre--silva78@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andre-silva78@hotmail.com)
