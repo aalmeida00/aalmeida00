@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Always trying to learn a new thing.
 - 🎓 &nbsp; Graduated in Analysis and Software Development at <a href="https://metodista.br/" target="_blank">University Methodist</a>.
-- 💼 &nbsp; Mid level Front End Engineer at <a href="https://raincake.com.br/" target="_blank">@Raincake</a>.
+- 💼 &nbsp; Mid Front End Engineer at <a href="https://raincake.com.br/" target="_blank">@Raincake</a>.
 - 🌱 &nbsp; Learning more **SSR, Next, React and Typescript**.
 
 <h3> :rocket: &nbsp;My skills </h3>
@@ -58,3 +58,5 @@
 [![Linkedin: Andre Almeida](https://img.shields.io/badge/-andre--almeida1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andre-almeida1/)
 [![Gmail Badge](https://img.shields.io/badge/-andre--silva78@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andre-silva78@hotmail.com)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/aalmeida00?label=follow&style=social)](https://github.com/aalmeida00)
+
+[![aalmeida00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aalmeida00)](https://wakatime.com/@aalmeida00)
