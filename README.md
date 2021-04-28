@@ -57,6 +57,6 @@
 
 [![Linkedin: Andre Almeida](https://img.shields.io/badge/-andre--almeida1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/andre-almeida1/)
 [![Gmail Badge](https://img.shields.io/badge/-andre--silva78@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andre-silva78@hotmail.com)
-[![GitHub SEU NOME](https://img.shields.io/github/followers/aalmeida00?label=follow&style=social)](https://github.com/aalmeida00)
+[![GitHub Andre Almeida](https://img.shields.io/github/followers/aalmeida00?label=follow&style=social)](https://github.com/aalmeida00)
 
 [![aalmeida00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aalmeida00)](https://wakatime.com/@aalmeida00)
