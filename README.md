@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=aalmeida00&color=006bed)
-
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Always trying to learn a new thing.
@@ -60,3 +58,6 @@
 [![GitHub Andre Almeida](https://img.shields.io/github/followers/aalmeida00?label=follow&style=social)](https://github.com/aalmeida00)
 
 [![aalmeida00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aalmeida00)](https://wakatime.com/@aalmeida00)
+
+![](https://komarev.com/ghpvc/?username=aalmeida00&color=006bed)
+
