@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Always trying to learn a new thing.
 - 🎓 &nbsp; Graduated in Analysis and Software Development at <a href="https://metodista.br/" target="_blank">University Methodist</a>.
-- 💼 &nbsp; Mid Front End Engineer at <a href="https://raincake.com.br/" target="_blank">@Raincake</a>.
+- 💼 &nbsp; Mid Front End Engineer at <a href="https://trizy.com.br/" target="_blank">@Trizy</a>.
 - 🌱 &nbsp; Learning more **SSR, Next, React and Typescript**.
 
 <h3> :rocket: &nbsp;My skills </h3>
