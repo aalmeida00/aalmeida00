@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Always trying to learn a new thing.
 - 🎓 &nbsp; Graduated in Analysis and Software Development at <a href="https://metodista.br/" target="_blank">University Methodist</a>.
-- 💼 &nbsp; Mid Front End Engineer at <a href="https://runrun.it/" target="_blank">@Runrun it</a>.
+- 💼 &nbsp; Mid Front End Engineer at <a href="https://foxbit.com.br/" target="_blank">@Foxbit</a>.
 - 🌱 &nbsp; Learning more **SSR, Next, React and Typescript**.
 
 <h3> :rocket: &nbsp;My skills </h3>
@@ -60,4 +60,3 @@
 [![aalmeida00's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aalmeida00)](https://wakatime.com/@aalmeida00)
 
 ![](https://komarev.com/ghpvc/?username=aalmeida00&color=006bed)
-
