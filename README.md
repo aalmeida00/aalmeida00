@@ -1,7 +1,12 @@
-<p align="left">new bio in progress</h3>
+### Hi, I'm Andre
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalmeida00&label=Profile%20views&color=0e75b6&style=flat" alt="aalmeida00" /> </p>
+Senior Frontend Engineer (7+ years) focused on **Design Systems, React and TypeScript**. Based in Brazil.
 
+- **Foxbit**: Architected the company-wide Design System platform for a multi-product crypto exchange: React, TypeScript, Storybook, design tokens and WCAG accessibility.
+- **Seekfy**: Building [seekfy.app](https://seekfy.app), which scans 8 job platforms (Greenhouse, Lever, Workday, Ashby, Gupy and more) daily and sends devs the new openings that match their profile.
+- **Devhatt**: Co-founded an open-source frontend engineering community with ~2,000 members on Discord.
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aalmeida00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
